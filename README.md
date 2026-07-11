@@ -208,4 +208,5 @@ Data Visualization
 Business Insights Generation
 
 6. Screenshots / Demos
+   https://github.com/piyush-web-pixel/Sales-Data-Analysis-Power-Bi-Dashboard/blob/main/sales_analysis_dashboard.png
    
